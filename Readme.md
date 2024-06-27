@@ -1,4 +1,4 @@
-# Shadman's QR Code Generator
+# Project QR Code Generator
 
 Welcome to Shadman's QR Code Generator! This Python script allows you to generate customized QR codes by specifying various parameters such as the link, version, box size, border size, fill color, and background color. The QR code can then be saved as an image file.
 
@@ -50,4 +50,5 @@ Enter the filename to save the QR code (eg: 'ShadsLinkedInQr.png'): ShadsLinkedI
 
 ## Additional Helps
 -https://stackoverflow.com/questions/65348890/python-was-not-found-run-without-arguments-to-install-from-the-microsoft-store
+
 -https://www.geeksforgeeks.org/generate-qr-code-using-qrcode-in-python/
